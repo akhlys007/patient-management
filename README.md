@@ -54,9 +54,9 @@ This project follows [this YouTube tutorial](https://www.youtube.com/watch?v=tse
 
 ## 🧩 System Architecture
 
-```
+
 ![System Architecture](System%20Architecture.png)
-```
+
 ### Spring Boot Architecture
 ![Spring Boot Architecture](Springboot%20Architecture.png)
 ---
