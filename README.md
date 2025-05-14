@@ -61,7 +61,8 @@ This project follows [this YouTube tutorial](https://www.youtube.com/watch?v=tse
                                              +--> [ Notification Service (Kafka) ]
                                              +--> [ Analytics Service (Kafka Consumer) ]
 ```
-
+### Spring Boot Architecture
+![Spring Boot Architecture](/Springboot Architecture.png)
 ---
 
 ## 🧪 Services & Features
