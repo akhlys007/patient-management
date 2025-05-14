@@ -55,11 +55,8 @@ This project follows [this YouTube tutorial](https://www.youtube.com/watch?v=tse
 ## 🧩 System Architecture
 
 ```
-[ Client ] --> [ API Gateway ] --> [ Auth Service ] -- JWT --> [ Patient Service ] 
-                                             |                      |
-                                             +--> [ Billing Service (gRPC) ]
-                                             +--> [ Notification Service (Kafka) ]
-                                             +--> [ Analytics Service (Kafka Consumer) ]
+![System Architecture](System%20Architecture.png)
+
 ```
 ### Spring Boot Architecture
 ![Spring Boot Architecture](Springboot%20Architecture.png)
