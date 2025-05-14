@@ -62,7 +62,7 @@ This project follows [this YouTube tutorial](https://www.youtube.com/watch?v=tse
                                              +--> [ Analytics Service (Kafka Consumer) ]
 ```
 ### Spring Boot Architecture
-![Spring Boot Architecture](/Springboot Architecture.png)
+![Spring Boot Architecture](Springboot Architecture.png)
 ---
 
 ## 🧪 Services & Features
