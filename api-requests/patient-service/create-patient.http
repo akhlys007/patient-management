@@ -4,8 +4,8 @@ Content-Type: application/json
 
 {
   "name": "Timothy Chelelgo",
-  "email": "",
-  "address": "123 main street",
+  "email": "timmybarkuch@gmail.com",
+  "address": "",
   "dateOfBirth": "1998-11-04",
   "registeredDate": "2025-05-15"
 }
