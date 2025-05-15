@@ -1,0 +1,13 @@
+### POST request to create patients
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Timothy Chelelgo",
+  "email": "",
+  "address": "123 main street",
+  "dateOfBirth": "1998-11-04",
+  "registeredDate": "2025-05-15"
+}
+
+###
