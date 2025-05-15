@@ -13,7 +13,7 @@ public class PatientRequestDTO {
 
     @NotBlank(message = "Email is required")
     @Email(message = "Email should be valid")
-    private String email;
+    private static String email;
 
     @NotBlank(message = "Address is required")
     private String address;
@@ -34,7 +34,7 @@ public class PatientRequestDTO {
         this.name = name;
     }
 
-    public @NotBlank(message = "Email is required") @Email(message = "Email should be valid") String getEmail() {
+    public static @NotBlank(message = "Email is required") @Email(message = "Email should be valid") String getEmail() {
         return email;
     }
 
