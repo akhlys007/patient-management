@@ -1,4 +1,3 @@
-
 package com.pm.patientservice.repository;
 
 import com.pm.patientservice.model.Patient;
