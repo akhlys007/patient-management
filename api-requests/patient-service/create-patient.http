@@ -3,11 +3,11 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
-  "name": "Timothy Chelelgo",
-  "email": "timmybarkuch@gmail.com",
-  "address": "123 main street",
-  "dateOfBirth": "1998-11-04",
-  "registeredDate": "2025-05-15"
+  "name": "Naomi Chelelgo",
+  "email": "testbillingaccount3@gmail.com",
+  "address": "123 main street2",
+  "dateOfBirth": "1998-11-03",
+  "registeredDate": "2025-05-17"
 }
 
 ###
