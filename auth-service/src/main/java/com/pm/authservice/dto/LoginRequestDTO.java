@@ -21,7 +21,7 @@ public class LoginRequestDTO {
         this.email = email;
     }
 
-    public String getPassword() {
+    public static String getPassword() {
         return password;
     }
 
