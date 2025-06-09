@@ -22,7 +22,7 @@ spring:
             - Path=/api/patients/**
           filters:
             - StripPrefix=1
-#            - JwtValidation
+            - JwtValidation
 
         # Route for /api/docs/patients to patient-service /v3/api-docs
         ##REST CLIENT -> http://localhost:4004/api-docs/patients
