@@ -185,7 +185,7 @@ Deploy with CloudFormation scripts included in `/infrastructure`.
 ## 👤 Author
 
 **Timothy Chelelgo**  
-Aspiring Backend Engineer | Cloud Developer  
+Aspiring FullStack Engineer | Cloud DevOps Engineer  
 [GitHub](https://github.com/your-github-username) • [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
 
 ---
